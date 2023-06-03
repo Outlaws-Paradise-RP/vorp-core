@@ -10,8 +10,8 @@ Lang = "English" -- choose here your language , check translation folder to see 
 Config = {
     onesync                  = true,  -- turn to false if you dont use onesync
     autoUpdateDB             = true,
-    PrintPlayerInfoOnLeave   = false, -- print in server console information of players leaving
-    PrintPlayerInfoOnEnter   = false, -- print player info on server console when enter server
+    PrintPlayerInfoOnLeave   = true, -- print in server console information of players leaving
+    PrintPlayerInfoOnEnter   = true, -- print player info on server console when enter server
     --=======================================
     ---STARTING POINT
     -- add here players initial money
